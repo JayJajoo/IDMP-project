@@ -49,12 +49,12 @@ All other intermediate processed outputs, including identified anomalies, will b
 
 ## Installation
 
--Clone the repository:
--git clone https://github.com/JayJajoo/IDMP-project.git
--cd IDMP-project
--Install required dependencies:
--pip install -r requirements.txt
--Ensure Python 3.8+ is installed.
+- Clone the repository:
+- git clone https://github.com/JayJajoo/IDMP-project.git
+- cd IDMP-project
+- Install required dependencies:
+- pip install -r requirements.txt
+- Ensure Python 3.8+ is installed.
 
 ---
 
