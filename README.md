@@ -47,7 +47,7 @@ All other intermediate processed outputs, including identified anomalies, will b
 
 ---
 
-##Installation
+## Installation
 
 Clone the repository:
 
@@ -62,7 +62,7 @@ Ensure Python 3.8+ is installed.
 
 ---
 
-##Usage
+## Usage
 
 Test our anomaly detection pipeline you just need to run respective house pipeline files with some example scenarios.
 You can create your scenarios and test them by just passing a new array to our existing array according to the expected input (20 sensor binary values, Both Resident Activities, Hour, Day Of Week, Week) = 25 input values for each scenario
@@ -81,7 +81,7 @@ IDMP-project/
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 Programming Language: Python 3.8+
 
