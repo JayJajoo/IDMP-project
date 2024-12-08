@@ -12,8 +12,6 @@
 6. [Usage](#usage)  
 7. [Project Structure](#project-structure)  
 8. [Technologies Used](#technologies-used)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
 
 ---
 
@@ -34,8 +32,8 @@ The dataset is stored in the `ARAS` folder.
 ---
 
 ## Data Outputs  
-The final outputs are present in the pipeline folder under respective houses.
-All other intermediate processed outputs, including identified anomalies, will be saved in the `ARAS` folder. (It's not present in the repo, you need to run the files manually) 
+- The final outputs are present in the pipeline folder under respective houses.
+- All other intermediate processed outputs, including identified anomalies, will be saved in the `ARAS` folder. (It's not present in the repo, you need to run the files manually) 
 
 ---
 
@@ -60,8 +58,8 @@ All other intermediate processed outputs, including identified anomalies, will b
 
 ## Usage
 
-Test our anomaly detection pipeline you just need to run respective house pipeline files with some example scenarios.
-You can create your scenarios and test them by just passing a new array to our existing array according to the expected input (20 sensor binary values, Both Resident Activities, Hour, Day Of Week, Week) = 25 input values for each scenario
+- Test our anomaly detection pipeline you just need to run respective house pipeline files with some example scenarios.
+- You can create your scenarios and test them by just passing a new array to our existing array according to the expected input (20 sensor binary values, Both Resident Activities, Hour, Day Of Week, Week) = 25 input values for each scenario
 
 ---
 
@@ -79,18 +77,18 @@ IDMP-project/
 
 ## Technologies Used
 
-Programming Language: Python 3.8+
+- Programming Language: Python 3.8+
 
-Libraries:
+- Libraries:
 
-Pandas: Data manipulation and preprocessing.
+- Pandas: Data manipulation and preprocessing.
 
-NumPy: Numerical computations.
+- NumPy: Numerical computations.
 
-Matplotlib & Seaborn: Data visualization.
+- Matplotlib & Seaborn: Data visualization.
 
-Scikit-learn: Machine learning and data analysis.
+- Scikit-learn: Machine learning and data analysis.
 
-PyTorch: For model development.
+- PyTorch: For model development.
 
 
